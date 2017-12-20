@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+
+
+    <TextView
+        android:id="@+id/fageo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FaGeo "
+        android:textColor="#ffffff"
+        android:textSize="60sp"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome "
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        android:layout_below="@id/fageo"
+        android:layout_marginTop="60dp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/userid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/welcome"
+        android:layout_margin="20dp"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:layout_centerHorizontal="true"/>
+    <TextView
+        android:id="@+id/srm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dp"
+        android:textColor="#a3ffffff"
+        android:textSize="12sp"
+        android:gravity="center"
+        android:text="SRM University, Kattankulathur,Tamil Nadu-603203"
+        android:layout_centerHorizontal="true"/>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<tabs>
+
+    <tab
+        id="@+id/upload"
+        icon="@drawable/ic_action_camera"
+        title="Upload" />
+
+    <tab
+        id="@+id/username"
+        icon="@drawable/ic_action_face"
+        title="Home" />
+
+    <tab
+        id="@+id/attendance"
+        icon="@drawable/ic_action_attendance"
+        title="Attendance" />
+
+
+
+</tabs>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565c0</color>
+    <color name="colorPrimaryDark">#0d47a1</color>
+    <color name="colorAccent">#1565c0</color>
+    <color name="white">#ffffff</color>
+    <color name="inactive">#9e9e9e</color>
+    <color name="snack">#1f7ae1</color>
+    <color name="low">#FFD32F2F</color>
+    <color name="equal">#fdd835</color>
+    <color name="high">#55c90c</color>
+
+</resources>
